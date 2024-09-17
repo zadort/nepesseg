@@ -29,5 +29,12 @@ namespace nepesseg
             double eredmeny = Math.Round(nepesseg / terulet);
             return eredmeny;
         }
+
+        public bool HarmincSzazalek()
+        {
+            double kiszamolt = fovarosNepesseg / nepesseg;
+            bool szazalek = kiszamolt > .30;
+            return szazalek;
+        }
     }
 }
