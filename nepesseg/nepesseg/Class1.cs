@@ -36,5 +36,6 @@ namespace nepesseg
             bool szazalek = kiszamolt > .30;
             return szazalek;
         }
+
     }
 }

@@ -53,39 +53,22 @@ namespace nepesseg
             Console.WriteLine($"Kínában a lakosság {fo} fővel volt több.");
             Console.WriteLine();
 
-            Console.WriteLine("8. feladat - A következő országok lakosságának több mint a 30%-a a fővárosban lakik:");
-                foreach (var item in lista)
-                {
-                    if (item.HarmincSzazalek())
-                    {
-                        Console.WriteLine($" \t {item.orszag} ({item.fovaros})");
-                    }
-                }
-
-            #region DEBUG MERT BEVAGOM A KEPERNYOT
-            //8.feladat debugolása
-            Console.WriteLine();
-            Console.WriteLine("[DEBUG]");
-            try
-            {
-                foreach (var item in lista)
-                {
-                    if (item.HarmincSzazalek())
-                    {
-                        Console.WriteLine($" \t {item.orszag} ({item.fovaros})");
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Hiba történt {ex.Message}");
-            }
-
+            Console.WriteLine("7. feladat");
             foreach (var item in lista)
             {
-                Console.WriteLine($"{item.orszag} {item.terulet} {item.nepesseg} {item.fovaros} {item.fovarosNepesseg}");
+
             }
-            #endregion
+            Console.WriteLine();
+
+
+            Console.WriteLine("8. feladat - A következő országok lakosságának több mint a 30%-a a fővárosban lakik:");
+            foreach (var item in lista)
+            {
+                if (item.HarmincSzazalek())
+                {
+                    Console.WriteLine($"\t{item.orszag}: {item.fovaros}");
+                }
+            }
 
             Console.ReadLine();
         }

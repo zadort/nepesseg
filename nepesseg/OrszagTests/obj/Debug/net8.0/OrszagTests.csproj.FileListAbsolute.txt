@@ -1,0 +1,6 @@
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.csproj.AssemblyReference.cache
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.AssemblyInfoInputs.cache
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.AssemblyInfo.cs
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.csproj.CoreCompileInputs.cache
+C:\Users\zadortamas\Git\nepesseg\nepesseg\OrszagTests\obj\Debug\net8.0\OrszagTests.sourcelink.json

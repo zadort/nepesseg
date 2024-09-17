@@ -19,3 +19,16 @@ C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.Ass
 C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.CoreCompileInputs.cache
 C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.exe
 C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.pdb
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Buffers.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Memory.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.ValueTuple.dll
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Buffers.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Memory.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\System.ValueTuple.xml
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.Up2Date
