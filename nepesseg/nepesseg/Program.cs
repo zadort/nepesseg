@@ -23,16 +23,35 @@ namespace nepesseg
             Console.WriteLine($"A beolvasott országok száma {lista.Count}.");
             Console.WriteLine();
 
+            Console.WriteLine("5. feladat");
+            foreach (var item in lista)
+            {
+                if (item.orszag == "Kína")
+                {   
+                    Console.WriteLine($"Kína népsűrűsége: {item.Nepsuruseg()} fő/km^2.");                    
+                }
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("6. feladat");
+            double kNepesseg = 0;
+            double iNepesseg = 0;
 
             foreach (var item in lista)
             {
                 if (item.orszag == "Kína")
                 {
-                    Console.WriteLine("5. feladat");
-                    Console.WriteLine($"Kína népsűrűsége: {item.Nepsuruseg()} fő/km^2.");
-                    Console.WriteLine();
+                    kNepesseg = item.nepesseg;
+                }
+                else if (item.orszag == "India")
+                {
+                    iNepesseg = item.nepesseg;
                 }
             }
+
+            double fo = kNepesseg - iNepesseg;
+            Console.WriteLine($"Kínában a lakosság {fo} fővel volt több.");
+            Console.WriteLine();
 
 
 
