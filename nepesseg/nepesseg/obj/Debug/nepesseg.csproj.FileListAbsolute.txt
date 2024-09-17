@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\bin\Debug\nepesseg.exe.config
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\bin\Debug\nepesseg.exe
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\bin\Debug\nepesseg.pdb
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\obj\Debug\nepesseg.exe
+C:\Users\Tanulo\source\repos\nepesseg\nepesseg\obj\Debug\nepesseg.pdb
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.exe.config
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.exe
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.pdb
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.exe
+C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF4A17-D27C-413D-8C1C-85702A456077}|nepesseg\\nepesseg.csproj|c:\\users\\tanulo\\git\\nepesseg\\nepesseg\\nepesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCF4A17-D27C-413D-8C1C-85702A456077}|nepesseg\\nepesseg.csproj|solutionrelative:nepesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF4A17-D27C-413D-8C1C-85702A456077}|nepesseg\\nepesseg.csproj|C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\nepesseg\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCF4A17-D27C-413D-8C1C-85702A456077}|nepesseg\\nepesseg.csproj|solutionrelative:nepesseg\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\nepesseg\\Class1.cs",
+              "RelativeDocumentMoniker": "nepesseg\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\nepesseg\\Class1.cs",
+              "RelativeToolTip": "nepesseg\\Class1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:18:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\nepesseg\\Program.cs",
+              "RelativeDocumentMoniker": "nepesseg\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\Git\\nepesseg\\nepesseg\\nepesseg\\Program.cs",
+              "RelativeToolTip": "nepesseg\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:17:24.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
