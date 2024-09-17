@@ -12,3 +12,10 @@ C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.Assembl
 C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.CoreCompileInputs.cache
 C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.exe
 C:\Users\Tanulo\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.pdb
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.exe.config
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.exe
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\bin\Debug\nepesseg.pdb
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.AssemblyReference.cache
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.csproj.CoreCompileInputs.cache
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.exe
+C:\Users\zadortamas\Git\nepesseg\nepesseg\nepesseg\obj\Debug\nepesseg.pdb

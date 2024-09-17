@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Linq;
 using System.IO;
 
 namespace nepesseg
@@ -20,11 +19,7 @@ namespace nepesseg
                 lista.Add(new Orszag(sor));
             }
 
-            foreach (var item in lista)
-            {
-                Console.WriteLine($"{item.orszag}");
-            }
-
+            Console.WriteLine(lista.Count);
 
             Console.ReadLine();
         }
