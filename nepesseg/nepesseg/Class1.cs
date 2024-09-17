@@ -8,11 +8,11 @@ namespace nepesseg
 {
     internal class Orszag
     {
-        string orszag;
-        int terulet;
-        int nepesseg;
-        string fovaros;
-        int fovarosNepesseg;
+        public string orszag;
+        public int terulet;
+        public int nepesseg;
+        public string fovaros;
+        public int fovarosNepesseg;
 
         public Orszag(string sor)
         {

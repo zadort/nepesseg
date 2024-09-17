@@ -2,7 +2,7 @@ Ország;Terület;Népesség;Főváros;Főváros népessége
 Görögország;132000;10640000;Athén;3154
 Románia;238400;19120000;Bukarest;1812
 Ausztria;83900;8960000;Bécs;1915
-Lengyelország;312700;3775g;Varsó;1776
+Lengyelország;312700;37750000;Varsó;1776
 Belgium;30500;11590000;Brüsszel;2065
 Bulgária;110400;6880000;Szófia;1277
 Ciprus;9300;900000;Nicosia;270
