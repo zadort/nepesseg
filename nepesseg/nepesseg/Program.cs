@@ -19,7 +19,22 @@ namespace nepesseg
                 lista.Add(new Orszag(sor));
             }
 
-            Console.WriteLine(lista.Count);
+            Console.WriteLine("4. feladat");
+            Console.WriteLine($"A beolvasott országok száma {lista.Count}.");
+            Console.WriteLine();
+
+
+            foreach (var item in lista)
+            {
+                if (item.orszag == "Kína")
+                {
+                    Console.WriteLine("5. feladat");
+                    Console.WriteLine($"Kína népsűrűsége: {item.Nepsuruseg()} fő/km^2.");
+                    Console.WriteLine();
+                }
+            }
+
+
 
             Console.ReadLine();
         }
