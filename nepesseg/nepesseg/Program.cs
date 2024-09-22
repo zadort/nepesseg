@@ -62,7 +62,7 @@ namespace nepesseg
             {
                 if (item.HarmincSzazalek())
                 {
-                    Console.WriteLine($"\t{item.orszag}: {item.fovaros}");
+                    Console.WriteLine($"\t{item.orszag} ({item.fovaros})");
                 }
             }
 
