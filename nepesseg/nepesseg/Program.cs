@@ -13,7 +13,6 @@ namespace nepesseg
         {
             List<Orszag> lista = new List<Orszag>();
             var sorok = File.ReadAllLines("adatok-utf8.txt").Skip(1);
-
             foreach (var sor in sorok)
             {
                 lista.Add(new Orszag(sor));
@@ -36,7 +35,6 @@ namespace nepesseg
             Console.WriteLine("6. feladat");
             double kNepesseg = 0;
             double iNepesseg = 0;
-
             foreach (var item in lista)
             {
                 if (item.orszag == "Kína")
@@ -54,10 +52,8 @@ namespace nepesseg
             Console.WriteLine();
 
             Console.WriteLine("7. feladat");
-            foreach (var item in lista)
-            {
-
-            }
+            var harmadikLegnepesebbOrszag = lista.OrderByDescending(x => x.nepesseg).Skip(2).First();
+            Console.WriteLine($"A harmadik legnépesebb ország: {harmadikLegnepesebbOrszag.orszag}, a lakosság {harmadikLegnepesebbOrszag.nepesseg} fő.");
             Console.WriteLine();
 
 
